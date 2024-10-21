@@ -4,7 +4,7 @@
     "@ethersproject/cli": "^5.7.0",
     "@ethersproject/testcases": "^5.7.0",
     "@types/mocha": "^5.2.0",
-    "ethers": "^5.7.0"
+    "ethers": "^6.0.0"
   },
   "description": "Testing package for ethers.",
   "ethereum": "donations.ethers.eth",
