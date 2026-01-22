@@ -24,7 +24,7 @@
     "@ethersproject/random": "5.7.0",
     "@ethersproject/rlp": "5.7.0",
     "@ethersproject/sha2": "5.7.0",
-    "@ethersproject/signing-key": "5.7.0",
+    "@ethersproject/signing-key": "5.8.0",
     "@ethersproject/solidity": "5.7.0",
     "@ethersproject/strings": "5.7.0",
     "@ethersproject/transactions": "5.7.0",
